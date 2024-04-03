@@ -37,19 +37,20 @@ input[type="number"] {
 
 button {
   padding: 10px 20px;
-  background-color: #007bff;
-  color: #fff;
-  border: none;
+  background-color: #fff;
+  color: #007bff;
+  border: 1px solid #007bff;
   border-radius: 5px;
   cursor: pointer;
-  margin-left: 10px;
 }
 
 button:hover {
+  color: #fff;
   background-color: #0056b3;
 }
 
 button:active {
+  color: #fff;
   background-color: #0056b3;
 }
 
